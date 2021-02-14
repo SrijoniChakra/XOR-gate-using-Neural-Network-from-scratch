@@ -1,0 +1,2 @@
+# XOR-gate-using-Neural-Network-from-scratch
+This code implements neural network from scratch. I have performed forward propagation and back propagation to compute the gradient on a neural network with 2 layers. The neural network has 2 input units (d(0) = 2), 3 hidden units (d(1) = 3), 1 output unit (d(2) = 1). I have used tanh as the activation function on the neurons. For gradient, squared error has been used as the error measure.
