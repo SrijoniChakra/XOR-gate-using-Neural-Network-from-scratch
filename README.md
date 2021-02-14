@@ -5,4 +5,5 @@ Dimensions of the neural net are as follows:
 2) Layer1 weights: (2,3)
 3) Layer2 weights: (3,1)
 4) Output layer: (4,1)
+
 I have used tanh as the activation function on the neurons. For gradient, squared error has been used as the error measure.If the output of the neural net is close to 1 then its considered as 1 while output close to 0 or negative is considered as 0.
